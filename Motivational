@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <title>Motivational Post Website</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div>
+      <img src="https://t3.ftcdn.net/jpg/05/73/55/12/240_F_573551225_h5mGL6pOLL5mDJi9pz7nYfG8uCppOfvW.jpg" id="image"/>
+      <h1>Never Give Up</h1>
+      <p>If my mind can conceive it, if my heart can believe it, then I can achieve it.</p>
+    </div>
+  </body>
+</html>
